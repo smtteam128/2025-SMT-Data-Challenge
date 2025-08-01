@@ -1,4 +1,5 @@
-# README - Team 128 - 2025 SMT Data Challenge
+# Being Kelly Leak - A Statistical Analysis of Outfielder Intent in Professional Baseball
+### Team 128 - 2025 SMT Data Challenge Submission
 
 This ReadMe will guide you through our code, the order to run everything, and what each script entails.
 
