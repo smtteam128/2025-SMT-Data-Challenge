@@ -3,6 +3,8 @@
 
 This ReadMe will guide you through our code, the order to run everything, and what each script entails.
 
+Link to user interface:
+https://www.badnewsanalytics.com/
 ## Script 1 - Data Wrangling for Center Fielders
 
 This is the script where we get player position and ball tracking data on plays where the center fielder touches the ball. Keep in mind that we are also getting the positioning of left fielders and right fielders as well. The output will be a dataset of around 6000-7000 observations that contains the player positioning for the three outfielders between when the ball was hit off the bat and when the ball lands.
